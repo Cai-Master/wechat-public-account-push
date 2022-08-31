@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "6e8f1b477b02224be50f2aa8316d2829",
 
     // 模板消息id
-    TEMPLATE_ID: "wyGmzULfeTgd0sZsAmL8UMnrdMAhchy1dEt0R7Q3yAg",
+    TEMPLATE_ID: "dAPMLZhONWxp4_zLeGMWIBltEmD782cBOueWNaHOWGM",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
@@ -39,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "河南",
     // 所在城市
-    CITY: "惠州",
+    CITY: "郑州",
 
     /** 重要节日相关 */
 
@@ -50,10 +50,10 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "01-01"},
-      {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
+      {"type": "生日", "name": "你", "year": "2000", "date": "11-06"},
+//       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
+//       {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
+//       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
